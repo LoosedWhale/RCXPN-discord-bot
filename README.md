@@ -1,3 +1,11 @@
+# RCXPN 
+
+Discord bot for learning discord.js and bot development. \
+Used Discord.py for bots in the past but wanted to try this. \
+Note that I'm following discords instructions
+
+
+
 # Getting Started app for Discord
 
 This project contains a basic rock-paper-scissors-style Discord app written in JavaScript, built for the [getting started guide](https://discord.com/developers/docs/getting-started).
